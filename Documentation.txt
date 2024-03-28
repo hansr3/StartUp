@@ -1,0 +1,29 @@
+02/02/2024 11:32 PM
+created navbar, still have no idea to use font-awsome on tailwind css
+and also dont know how to make the navbar horizontal instead of vertical list
+
+
+07/02/24 3:52 PM
+create a navigation bar which aligns at the center of the page horizontally
+using tailwind-css buttons:
+Home
+Features
+Pricing
+Blog
+fa-dribble
+fa-behance
+
+How to import a new/custom font to tailwindcss:
+using google font:
+-copy the import url to index.css
+-under the extend (name the font inside fonfFamily):
+    fontFamily: {
+      sans : ['"DM Sans"', 'sans-serif']
+    }
+
+Pagination dot:
+1. https://build.washingtonpost.com/v0/design/uncategorized/pagination-dots
+  and follow the instructions -> (not sure how to use this)
+2. 
+
+
